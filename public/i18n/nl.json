@@ -1,0 +1,51 @@
+{
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "about": "Over mij",
+
+    "home-intro": "Welkom.",
+    "home-intro1": "Ik ben Patricia, Software Developer.",
+    "home-intro2": "Analytisch,",
+    "home-intro3": "Initiatiefrijk,",
+    "home-intro4": "Resultaatgericht.",
+    "home-body": "Ik heb ervaring met ",
+    "home-conclusion0": "Mijn werk bekijken? Klik op",
+    "home-conclusion1": "Contact met mij opnemen? Klik op",
+    "home-conclusion2": "Meer over mij weten? Klik op",
+
+
+    "portfolio-title": "Mijn werk",
+    "portfolio-intro": "Onderaan vind je mijn recent werk. Mijn focus op lange termijn ligt op full-stack ontwikkeling en mobiele applicaties. Ik maak verschillende projecten, waaronder websites en kleine projecten en maak vaak gebruik van bijvoorbeeld Javascript, React of ASP.NET Core.",
+    "pf-rm": "Lees meer...",
+    
+    "pftitle1": "Project: Website voor het reisbureau Bon Travel ( frontend + backend(WIP) )",
+    "pfbody1": "Voor het reisbureau 'Bon travel' heb ik een website gemaakt. \n\nBij de front-end maak ik gebruik van TailwindCSS, HTML en Javascript. Herhalende HTML block elements zoals header of footer heb ik gesplitst in meerdere JS bestanden om ervan componenten te kunnen maken, zodat ik elke keer alleen gebruik maak van afkorting. Op de website zijn er kleine Javascript onderdelen zoals logo slider of cookie bar. \n\nDe back end wordt gemaakt met Node.js en MySQL database. Dit is nu steeds work in progress. \n\nHierbij heb ik veel nieuws geleerd (net als over reisbureaus en reizen) en het was plezier voor mij om deze website te kunnen ontwerpen. \n\nZie het hele project op mijn Github profiel.",
+
+    "pftitle2": "Project: Website MVC Dotnet met SQL database",
+    "pfbody2": "Dit is mijn project...",
+
+    "pftitle3": "Project: Business portfolio website voor de klant",
+    "pfbody3": "Eén van mijn klanten vroeg me of ik een website voor haar zou kunnen aanmaken voor haar business portfolio. Dus ik heb eentje voor haar ontworpen. \n\nQua programmeertalen maakte ik vooral gebruik van React en TailwindCSS. \n\nRouting op de website werd gemaakt met HashRouter (normaal gesproken gaat de routing met BrowserRouter maar dat kan niet op Github Pages). \n\nEr zijn verschillende onderdelen aanwezig zoals Header, Hero, About of Certificates. \nWebsite is geïmplementeerd op de hosting Github Pages en heeft zijn eigen domeinnaam geregeld via de slowaakse domeinwebsite. Er is ook een formulier dat werkt door gebruik maken van de form backend FormSubmit.\n\nZie het hele project op mijn Github profiel.",
+
+    "pftitle4": "Referentie: Mijn oude portfolio",
+    "pfbody4": "Als referentie voeg ik er bij ook mijn oude portfolio website. \n\nDie werd gemaakt heel simpel met HTML en CSS.\n\nZie het hele project op mijn Github profiel.",
+
+
+    "overmij-title": "Wil je meer over mij weten?",
+    "overmij-body": "Ik ben Patricia, 24 jaar oud, woonachtig in Gouda. \n\nIk begon als student vertaalkunde aan de Universiteit van Comenius in Slowakije. Na enige tijd twijfelen en beslissen of ik echt die kant op wilde, ben ik er na anderhalf jaar mee gestopt. \n\nIk was op zoek naar een nieuwe uitdaging. Na een tijdje zoeken en ontdekken kwam ik in de IT terecht. \n\nNu vraag je je waarschijnlijk af: \"waarom IT eigenlijk?\" Toen ik begon, was IT voor mij een grote stap in het onbekende, omdat ik me nooit zo diep in de technologie verdiepte, afgezien van het feit dat ik altijd vond computers leuk en interessant en dat ik als tiener veel computerspelletjes speelde. \n\nDus waarom IT en wat vind ik ervan? Omdat er altijd nieuwe en complexe uitdagingen en mogelijke oplossingen zijn. Er valt veel te analyseren en te leren. Het maakt je zeker niet saai. Na enige tijd van zelfstudie voel ik een groeiende passie voor technologieën en softwareontwikkeling. \n\nMijn doel is om een ​​full-stack ontwikkelaar te worden. Wat mij ook enorm interesseert is de ontwikkeling van mobiele applicaties, maar dat is nog een gebied dat ik moet verkennen. \n\nIn mijn persoonlijke tijd besteed ik graag tijd aan mijn hobby's. Mijn hobby's zijn reizen, muziek en het leren van nieuwe talen. Nadat ik een tijdje de universiteit heb verlaten, voel ik nog steeds een diepe passie voor het leren van nieuwe talen. \n\n\nBedankt voor het tonen van uw interesse en het lezen van deze korte tekst over mij. Ik kijk uit naar ons verdere contact. \n\nVriendelijke groeten, \nPatricia Podhradska",
+    "overmij-foto": "Bron",
+    
+
+    "contact-title": "Contact",
+    "contact-intro": "Op deze pagina kan je makkelijk met mij contact opnemen. Zie onderaan mijn contact info.",
+
+    "contact-email": "Email sturen",
+    "contact-bellen": "Bellen",
+    "contact-github": "Github profiel",
+    "contact-linkedin": "LinkedIn profiel",
+
+    "404error": "404 - Pagina niet gevonden",
+    "404error1": "De pagina die u zoekt werd niet gevonden. Probeer terug te gaan naar de startpagina of als de problemen aanhouden, neem dan contact op met de webmaster van deze website",
+    "404error2": "Terug naar home pagina"
+}

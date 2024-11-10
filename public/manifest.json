@@ -1,0 +1,20 @@
+{
+  "short_name": "portfolio-patricia-updated-nov2024",
+  "name": "Portfolio van Patricia",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#333333",
+  "background_color": "#FFF4DF"
+}

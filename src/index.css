@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+  @apply font-primary bg-primary text-text overflow-x-hidden
+}
+
+::selection {
+  background-color: theme("colors.accenty")
+}
+
+#navbar a.active {
+  color: theme('colors.primary');
+  transform: scale(1.1);
+  border-bottom: 1px solid;
+  border-image: linear-gradient(0.25turn, #B77CCC, #FFDF5A) 1;
+}
+
+.active {
+  border-bottom: 2px solid;
+  border-image: linear-gradient(0.25turn, #B77CCC, #FFDF5A) 1;
+}
+
+/* #navbar a.pending {
+  color: purple;
+} */
+
+/* #navbar a.transitioning {
+  color: yellow;
+} */

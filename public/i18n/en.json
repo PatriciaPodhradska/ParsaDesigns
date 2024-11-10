@@ -1,0 +1,51 @@
+{
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "about": "About me",
+
+    "home-intro": "Welcome.",
+    "home-intro1": "I am Patricia, Software Developer.",
+    "home-intro2": "Analytical,",
+    "home-intro3": "Enterprising,",
+    "home-intro4": "Results-oriented.",
+    "home-body": "I have experience with ",
+    "home-conclusion0": "Want to view my work? Click on",
+    "home-conclusion1": "Want to contact me? Click on",
+    "home-conclusion2": "Want to know more about me? Click on",
+
+
+    "portfolio-title": "My work",
+    "portfolio-intro": "Below you will find my recent work. My long-term focus is on full-stack development and mobile applications. I create various projects, including websites and small projects and often use JavaScript, React or ASP.NET Core, for example.",
+    "pf-rm": "Read more...",
+    
+    "pftitle1": "Project: Website for the travel agency Bon Travel (frontend + backend(WIP))",
+    "pfbody1": "I created a website for the travel agency Bon travel. \n\nFor the front-end I use TailwindCSS, HTML and Javascript. I have split repeating HTML block elements such as header or footer into multiple JS files to create components, so that I only use abbreviations each time. On the website there are small Javascript parts such as logo slider or cookie bar. \n\nThe back end is made with Node.js and MySQL database. This is still a work in progress. \n\nI learned a lot of new things (just like about travel agencies and travel) and it was fun for me to be able to design this website. \n\nSee the entire project on my Github profile.",
+
+    "pftitle2": "Project: Website MVC Dotnet with SQL database",
+    "pfbody2": "This is my project...",
+
+    "pftitle3": "Project: Business portfolio website for a client",
+    "pfbody3": "One of my clients asked me if I could create a website for her business portfolio. So I designed one for her. \n\nIn terms of programming languages, I mainly used React and TailwindCSS. \n\nRouting on the website was made with HashRouter (normally the routing is done with BrowserRouter, but that is not possible on Github Pages). \n\nThere are various components such as Header, Hero, About or Certificates. Website is deployed on the hosting Github Pages and has arranged its own domain name through the Slovak domain website. There is also a form that works using the form backend FormSubmit.\n\nSee the entire project on my Github profile.",
+
+    "pftitle4": "Reference: My old portfolio",
+    "pfbody4": "As a reference I also include my old portfolio website. \n\nIt was made very simply with HTML and CSS. \n\nSee the entire project on my Github profile.",
+
+
+    "overmij-title": "Do you want to know more about me?",
+    "overmij-body": "I am Patricia, 24 years old, living in Gouda. \n\nI first started as a student of translatology at the University of Comenius in Slovakia. After some time of doubts and deciding whether I truly wanted to go in that direction, I dropped out after a year and a half. \n\nI was looking for a new challenge. After a while of searching and discovering, I ended up in IT. \n\nNow you are probably asking: \"why IT anyway?\" At that time when I started, IT was a big step into the unknown for me as I was never that deeply into technology, other than the fact that I always found computers fun and interesting and that I played a lot of computer games when I was a teenager. \n\nSo why IT and what do I think about it? Because there are always new and complex challenges and possible solutions. There is a lot to analyze and learn. It certainly doesn't make you boring. After some time of a self-study, I feel a growing passion for technologies and software development. \n\nMy goal is to become a full-stack developer. What also deeply interests me is mobile application development, but that's still an area for me to explore. \n\nIn my personal time, I like spending time doing my hobbies. My hobbies are traveling, music and learning new languages. After some time of dropping out of the university, I still feel deep passion for learning new languages. \n\n\nThank you for showing your interest and reading this short text about me. I am looking forward to our further contact. \n\nKind regards, \nPatricia Podhradska",
+    "overmij-foto": "Source",
+    
+
+    "contact-title": "Contact me",
+    "contact-intro": "You can easily contact me via this page. See my contact info below.",
+
+    "contact-email": "Send an Email",
+    "contact-bellen": "Make a Call",
+    "contact-github": "Github profile",
+    "contact-linkedin": "LinkedIn profile",
+
+    "404error": "404 - Page Not Found",
+    "404error1": "The page you are looking for hasn't been found. Try going back to the home page or if the issues persist, please contact the webmaster of this website",
+    "404error2": "Back to Home Page"
+}
