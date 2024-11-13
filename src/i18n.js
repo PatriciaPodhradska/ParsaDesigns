@@ -17,7 +17,7 @@ i18n
             escapeValue: false,
         },
         backend: {
-            loadPath: `http://localhost:3000/i18n/{{lng}}.json`,
+            loadPath: `https://portfolio-website-updated-nov2024.onrender.com/i18n/{{lng}}.json`,
         },
     });
 
