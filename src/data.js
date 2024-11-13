@@ -34,8 +34,8 @@ import { BsGithub } from "react-icons/bs";
 // portfolio projects
 export const projects = [
     {
-        images: bontravel1,
-        images1: bontravel,
+        images: bontravel,
+        images1: bontravel1,
         images2: bontravel2,
         images3: bontravel3,
         images4: bontravel4,
